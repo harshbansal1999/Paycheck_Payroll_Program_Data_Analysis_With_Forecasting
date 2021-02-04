@@ -2,4 +2,4 @@
 
 Detailed Analysis with Visualization
 
-Forecasting the future numbers after detailed time series analysis
+Forecasting the future numbers after performing detailed time series analysis
